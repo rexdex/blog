@@ -2,12 +2,12 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Rex Dex",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Game Engine Developer",
-    bio: "I develop game engines for fun.",
+    bio: "Game engines are Fun!",
     email: "rexdexpl@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tomasz-jonarski-83667a11",
-    github: "https://www.github.com/rexdex/",
+    linkedin: "tomasz-jonarski-83667a11",
+    github: "rexdex",
     instagram: "",
   },
   projects: [
@@ -31,7 +31,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://inferno-dev-blog.vercel.app/",
   since: 2019, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
